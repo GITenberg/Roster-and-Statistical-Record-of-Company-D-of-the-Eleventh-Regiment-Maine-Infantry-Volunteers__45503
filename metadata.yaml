@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43318'
     url: http://www.gutenberg.org/2009/agents/43318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45503#Roster-and-Statistical-Record-of-Company-D-of-the-Eleventh-Regiment-Maine-Infantry-Volunteers_
 gutenberg_issued: '2014-04-26'
 gutenberg_type: Text
 identifiers:
